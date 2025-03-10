@@ -51,3 +51,16 @@ lambda:
 
 let:
 	(let (vars) (body))
+
+------------------------------------------------------------------------------------------------------------------------------------
+nil t
++ - * / >= <= /= = eq eql equal and not or
+car cdr rplaca rplacd
+defun defmacro defvar
+setf setq let let*
+function funcall apply #' list '
+cons mapcar
+if and or nil t listp numberp cond null atom
+intern
+eval
+symbol-value symbol-function
