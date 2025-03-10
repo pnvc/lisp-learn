@@ -54,4 +54,6 @@ a
 (eval (cdr a))
 (intern "zxc")
 zxc
+(msg "qwe" 1 2)
+
 
